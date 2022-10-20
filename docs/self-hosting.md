@@ -11,11 +11,11 @@ Sign up to Auth0 and follow the [Getting Started steps](https://github.com/auth0
 </Callout>
 
 <Accordion title='Environment variables from this step'>
-`AUTH0_SECRET`= Execute the [generate-secret](#generate-secret) command for suitable and secure strings  
-`AUTH0_BASE_URL`=  
-`AUTH0_ISSUER_BASE_URL`=  
-`AUTH0_CLIENT_ID`=  
-`AUTH0_CLIENT_SECRET`=  
+`AUTH0_SECRET` = Execute the [generate-secret](#generate-secret) command for suitable and secure strings  
+`AUTH0_BASE_URL` =  
+`AUTH0_ISSUER_BASE_URL` =  
+`AUTH0_CLIENT_ID` =  
+`AUTH0_CLIENT_SECRET` =  
 </Accordion>
 
 ## Database
